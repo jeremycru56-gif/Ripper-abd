@@ -5,7 +5,7 @@
 #   ./install.sh --uninstall  remove ripper (and the neofetch logo)
 set -euo pipefail
 
-REPO="jeremycru56-gif/Ripper-abd"
+REPO="jeremycru56-gif/ripper-adb"
 BRANCH="main"
 RAW="https://raw.githubusercontent.com/$REPO/$BRANCH"
 
