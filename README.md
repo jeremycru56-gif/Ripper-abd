@@ -43,15 +43,15 @@ A purple-and-black terminal toolkit that wraps `adb` so you can manage your Andr
 ## Install
 
 ```bash
-git clone https://github.com/jeremycru56-gif/ripper-adb.git
-cd ripper-adb
+git clone https://github.com/jeremycru56-gif/Ripper-abd.git
+cd Ripper-abd
 ./install.sh
 ```
 
 Or in one line:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/jeremycru56-gif/ripper-adb/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/jeremycru56-gif/Ripper-abd/main/install.sh | bash
 ```
 
 This puts `ripper` in `~/.local/bin`. If that folder isn't in your `PATH`, the installer tells you what to add. Set `RIPPER_PREFIX` to install somewhere else.
