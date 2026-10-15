@@ -102,4 +102,3 @@ RIPPER only wraps standard `adb` commands. Use it on devices you own or have cle
 ## License
 
 MIT, see [LICENSE](LICENSE).
-
